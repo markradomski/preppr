@@ -1,1 +1,1 @@
-Preppr React Native android demo
+Preppr React Native demo
