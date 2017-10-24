@@ -1,0 +1,25 @@
+{
+  "name": "preppr",
+  "description": "instagram wrangler",
+  "slug": "Preppr",
+  "privacy": "public",
+  "sdkVersion": "21.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#fff",
+  "icon": "./assets/icons/preppr.png",
+  "loading": {
+    "icon": "./assets/icons/preppr-large-loading.png",
+    "hideExponentText": false
+  },
+  "packagerOpts": {
+    "assetExts": ["ttf", "mp4"]
+  },
+  "ios": {
+    "supportsTablet": true
+  },
+  "androidStatusBar": {
+    "barStyle": "light-content",
+    "backgroundColor": "#fff"
+  }
+}
