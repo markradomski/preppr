@@ -1,1 +1,2 @@
-Preppr React Native demo
+Instagram post scheduling demo for https://www.preppr.com
+React Native
